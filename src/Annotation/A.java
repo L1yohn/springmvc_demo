@@ -7,5 +7,6 @@ public @interface A {
     //42345
     //1
     //
+     //3
      //4
 }
