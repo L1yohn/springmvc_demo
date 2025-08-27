@@ -1,0 +1,16 @@
+====Dog====
+name=xiaohei
+age=3
+hobby=null
+====Student====
+name=li
+age=23
+hobby=dayouxi
+====Teachar====
+name=wu
+age=24
+hobby=xuexi
+salary=3000.0
+className=2
+sex=1
+phone=124124135245
