@@ -6,5 +6,5 @@ public @interface A {
     //2asda
     //42345
     //1
-    //2
+    //
 }
